@@ -9,3 +9,8 @@ LeetCode刷题记录
 | # | 题目 | 算法 | 难度 |
 | :-: | :----: | :----- | :--------  |
 | 520 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
+
+## 位运算
+| # | 题目 | 算法 | 难度 |
+| :-: | :----: | :----- | :--------  |
+| 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/bit/136.singleNumber.md) | 简单 |
