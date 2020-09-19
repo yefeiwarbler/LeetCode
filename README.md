@@ -3,6 +3,7 @@ LeetCode刷题记录
 ## 二叉树
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
+| 637  | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/637.averageOfLevelsInBinaryTree.md) | 简单 |
 | 102  | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/102.binaryTreeLevelOrderTraversal.md) | 中等 |
 | 94   | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/94.binaryTreeInorderTraversal.md) | 中等 |
 
