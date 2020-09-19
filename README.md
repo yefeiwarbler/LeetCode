@@ -4,6 +4,7 @@ LeetCode刷题记录
 | # | 题目 | 算法 | 难度 |
 | :-: | :----: | :----- | :--------  |
 | 102 | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/102.binaryTreeLevelOrderTraversal.md) | 中等 |
+| 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/94.binaryTreeInorderTraversal.md) | 中等 |
 
 ## 字符串
 | # | 题目 | 算法 | 难度 |
