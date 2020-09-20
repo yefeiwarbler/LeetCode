@@ -11,6 +11,7 @@ LeetCode刷题记录
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
+| 5    | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/5.longestPalinDromicSubstring.md) | 中等 |
 
 ## 位运算
 | #    | <center>题目</center> | 算法 | 难度 |
