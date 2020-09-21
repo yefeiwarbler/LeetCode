@@ -34,3 +34,8 @@ LeetCode刷题记录
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
 | 2    | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/2.addTwoNumbers.md) | 中等 |
+
+## 图
+| #    | <center>题目</center> | 算法 | 难度 |
+| :-:  | :-------------------- | :-:  | :-: |
+| 685  | [冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/graph/685.redundantConnectionII.md) | 困难 |
