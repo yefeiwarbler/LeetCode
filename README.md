@@ -13,6 +13,7 @@ LeetCode刷题记录
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
+| 6   | [Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/6.zigzagConversion.md) | 中等 |
 | 5    | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/5.longestPalinDromicSubstring.md) | 中等 |
 | 3   | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/3.longestSubstringWithoutRepeatingCharcters.md) | 中等 |
 
