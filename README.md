@@ -26,12 +26,13 @@ LeetCode刷题记录
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
 | 1010 | [总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1010.pairsOfSongsWithTotalDurationsDivisibleBy60.md) | 简单 |
-| 718  | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1010.pairsOfSongsWithTotalDurationsDivisibleBy60.md) | 中等 |
+| 718  | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1010.718.maximuLengthOfRepeatedSubarray.md) | 中等 |
 | 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/350.intersectionOfTwoArraysII.md) | 简单 |
 | 79   | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/79.wordSearch.md) | 中等 |
 | 78   | [子集](https://leetcode-cn.com/problems/subsets/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/78.subsets.md) | 中等 |
 | 47   | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/47.permutationsII.md) | 中等 |
 | 37   | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/37.sudokuSolver.md) | 困难 |
+| 4    | [寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/4.medianOfTwoSortedArrays.md) | 困难 |
 | 1    | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1.towSum.md) | 简单 |
 
 ## 链表
