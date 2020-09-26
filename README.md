@@ -45,3 +45,8 @@ LeetCode刷题记录
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
 | 685  | [冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/graph/685.redundantConnectionII.md) | 困难 |
+
+## 其他
+| #    | <center>题目</center> | 算法 | 难度 |
+| :-:  | :-------------------- | :-:  | :-: |
+| 7    | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/7.reverseInteger.md) | 简单 |
