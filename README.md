@@ -16,6 +16,7 @@ LeetCode刷题记录
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
+| 8    | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/8.stringToIntegerAtoi.md) | 中等 |
 | 6   | [Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/6.zigzagConversion.md) | 中等 |
 | 5    | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/5.longestPalinDromicSubstring.md) | 中等 |
 | 3   | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/3.longestSubstringWithoutRepeatingCharcters.md) | 中等 |
@@ -51,5 +52,5 @@ LeetCode刷题记录
 ## 其他
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
-| 7    | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/7.reverseInteger.md) | 简单 |
 | 9    | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/9.palindromeNumber.md) | 简单 |
+| 7    | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/7.reverseInteger.md) | 简单 |
