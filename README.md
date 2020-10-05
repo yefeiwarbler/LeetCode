@@ -19,6 +19,7 @@ LeetCode刷题记录
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
+| 10   | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/10.regularExpressionMatching.md) | 困难 |
 | 8    | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/8.stringToIntegerAtoi.md) | 中等 |
 | 6   | [Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/6.zigzagConversion.md) | 中等 |
 | 5    | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/5.longestPalinDromicSubstring.md) | 中等 |
