@@ -3,11 +3,13 @@ LeetCode刷题记录
 ## 二叉树
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
+| 968  | [监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/968.binaryTreeCameras.md) | 困难 |
 | 637  | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/637.averageOfLevelsInBinaryTree.md) | 简单 |
 | 617  | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/617.mergeTwoBinaryTree.md) | 简单 |
 | 538   | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/538.convertBstToGreaterTree.md) | 简单 |
 | 501   | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/501.findModeInBinarySearchTree.md) | 简单 |
 | 404  | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/404.sumOfLeftLeaves.md) | 简单 |
+| 235  | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/235.lowestCommonAncestorOfBST.md) | 简单 |
 | 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/226.invertBianryTree.md) | 简单 |
 | 145  | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/145.binaryTreePostorderTraversal.md) | 中等 |
 | 113  | [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/113.pathSumII.md) | 中等 |
