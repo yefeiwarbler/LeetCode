@@ -39,6 +39,7 @@ LeetCode刷题记录
 | 1010 | [总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1010.pairsOfSongsWithTotalDurationsDivisibleBy60.md) | 简单 |
 | 718  | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1010.718.maximuLengthOfRepeatedSubarray.md) | 中等 |
 | 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/350.intersectionOfTwoArraysII.md) | 简单 |
+| 216  | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/216.combinationSumIII.md) | 中等 |
 | 79   | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/79.wordSearch.md) | 中等 |
 | 78   | [子集](https://leetcode-cn.com/problems/subsets/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/78.subsets.md) | 中等 |
 | 47   | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/47.permutationsII.md) | 中等 |
