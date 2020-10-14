@@ -46,6 +46,7 @@ LeetCode刷题记录
 | 78   | [子集](https://leetcode-cn.com/problems/subsets/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/78.subsets.md) | 中等 |
 | 47   | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/47.permutationsII.md) | 中等 |
 | 37   | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/37.sudokuSolver.md) | 困难 |
+| 15   | [三数之和](https://leetcode-cn.com/problems/3sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/15.3sum.md) | 中等 |
 | 11   | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/11.containerWithMostWater.md) | 中等 |
 | 4    | [寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/4.medianOfTwoSortedArrays.md) | 困难 |
 | 1    | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1.towSum.md) | 简单 |
@@ -63,7 +64,7 @@ LeetCode刷题记录
 ## 其他
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
-| 13   | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/12.romanToInteger.md) | 简单 |
+| 13   | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/12.romanToInteger.md) | 简单 |
 | 12   | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/12.integerToRoman.md) | 中等 |
 | 9    | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/9.palindromeNumber.md) | 简单 |
 | 7    | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/7.reverseInteger.md) | 简单 |
