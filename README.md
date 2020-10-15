@@ -23,6 +23,7 @@ LeetCode刷题记录
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
+| 17   | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/17.letterCombinationsOfAPhoneNumber.md) | 中等 |
 | 14   | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/14.longestCommonPrefix.md) | 简单 |
 | 10   | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/10.regularExpressionMatching.md) | 困难 |
 | 8    | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/8.stringToIntegerAtoi.md) | 中等 |
