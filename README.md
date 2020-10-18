@@ -58,6 +58,7 @@ LeetCode刷题记录
 ## 链表
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
+| 21    | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/21.mergeTwoSortedLists.md) | 简单 |
 | 19    | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/19.removeNthNodeFromEndOfList.md) | 中等 |
 | 2    | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/2.addTwoNumbers.md) | 中等 |
 
