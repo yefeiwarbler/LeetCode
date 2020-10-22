@@ -62,6 +62,7 @@ LeetCode刷题记录
 ## 链表
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
+| 141   | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/141.linkedListCycle.md) | 简单 |
 | 24    | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/24.swapNodesInPairs.md) | 中等 |
 | 23    | [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/23.mergeKSortedLists.md) | 困难 |
 | 21    | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/21.mergeTwoSortedLists.md) | 简单 |
