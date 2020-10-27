@@ -80,6 +80,7 @@ LeetCode刷题记录
 ## 其他
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
+| 29   | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/29.divideTwoIntegers.md) | 中等 |
 | 13   | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/12.romanToInteger.md) | 简单 |
 | 12   | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/12.integerToRoman.md) | 中等 |
 | 9    | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/9.palindromeNumber.md) | 简单 |
