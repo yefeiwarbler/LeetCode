@@ -24,6 +24,7 @@ LeetCode刷题记录
 ## 字符串
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
+| 711  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/711.jewelsAndStones.md) | 简单 |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
 | 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/344.reverseString.md) | 简单 |
 | 22  | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/22.generateParentheses.md) | 中等 |
@@ -45,7 +46,8 @@ LeetCode刷题记录
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
 | 1010 | [总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1010.pairsOfSongsWithTotalDurationsDivisibleBy60.md) | 简单 |
-| 718  | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1010.718.maximuLengthOfRepeatedSubarray.md) | 中等 |
+| 718  | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/718.maximuLengthOfRepeatedSubarray.md) | 中等 |
+| 416  | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/416.partitionEqualSubsetSum.md) | 中等 |
 | 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/350.intersectionOfTwoArraysII.md) | 简单 |
 | 216  | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/216.combinationSumIII.md) | 中等 |
 | 79   | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/79.wordSearch.md) | 中等 |
