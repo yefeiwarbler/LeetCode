@@ -55,6 +55,7 @@ LeetCode刷题记录
 | 47   | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/47.permutationsII.md) | 中等 |
 | 37   | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/37.sudokuSolver.md) | 困难 |
 | 35   | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/35.searchInsertPosition.md) | 简单 |
+| 33   | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/33.searchInRotatedArray.md) | 中等 |
 | 26   | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/26.removeDuplicatesFromSortedArray.md) | 简单 |
 | 18   | [四数之和](https://leetcode-cn.com/problems/4sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/18.fourSum.md) | 中等 |
 | 16   | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/16.threeSumClosest.md) | 中等 |
