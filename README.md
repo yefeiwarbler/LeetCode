@@ -58,6 +58,7 @@ LeetCode刷题记录
 | 35   | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/35.searchInsertPosition.md) | 简单 |
 | 34   | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/34.findFirstAndLastPosInSortedArray.md) | 中等 |
 | 33   | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/33.searchInRotatedArray.md) | 中等 |
+| 31   | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/31.nextPermutation.md) | 中等 |
 | 26   | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/26.removeDuplicatesFromSortedArray.md) | 简单 |
 | 18   | [四数之和](https://leetcode-cn.com/problems/4sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/18.fourSum.md) | 中等 |
 | 16   | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/16.threeSumClosest.md) | 中等 |
