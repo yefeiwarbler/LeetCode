@@ -27,6 +27,7 @@ LeetCode刷题记录
 | 711  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/711.jewelsAndStones.md) | 简单 |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
 | 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/344.reverseString.md) | 简单 |
+| 38   | [外观数列](https://leetcode-cn.com/problemscount-and-say/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/38.countAndSay.md) | 简单 |
 | 30  | [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/30.substringWithConcatenationOfAllWords.md) | 困难 |
 | 22  | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/22.generateParentheses.md) | 中等 |
 | 20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/20.validParentheses.md) | 简单 |
