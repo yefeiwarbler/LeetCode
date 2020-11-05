@@ -24,7 +24,7 @@ LeetCode刷题记录
 ## 字符串
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
-| 1002  | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/1002.findCommonCharacters.md) | 简单 |
+| 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/1002.findCommonCharacters.md) | 简单 |
 | 711  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/711.jewelsAndStones.md) | 简单 |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
 | 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/344.reverseString.md) | 简单 |
@@ -58,6 +58,7 @@ LeetCode刷题记录
 | 78   | [子集](https://leetcode-cn.com/problems/subsets/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/78.subsets.md) | 中等 |
 | 47   | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/47.permutationsII.md) | 中等 |
 | 37   | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/37.sudokuSolver.md) | 困难 |
+| 36   | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/36.validSudoku.md) | 中等 |
 | 35   | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/35.searchInsertPosition.md) | 简单 |
 | 34   | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/34.findFirstAndLastPosInSortedArray.md) | 中等 |
 | 33   | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/33.searchInRotatedArray.md) | 中等 |
