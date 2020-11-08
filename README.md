@@ -59,7 +59,7 @@ LeetCode刷题记录
 | 79   | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/79.wordSearch.md) | 中等 |
 | 78   | [子集](https://leetcode-cn.com/problems/subsets/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/78.subsets.md) | 中等 |
 | 47   | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/47.permutationsII.md) | 中等 |
-| 40   | [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/40.combinationSumII.md) | 中等 |
+| 40   | [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/40.combinationSumIIb.md) | 中等 |
 | 39   | [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/39.combinationSum.md) | 中等 |
 | 37   | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/37.sudokuSolver.md) | 困难 |
 | 36   | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/36.validSudoku.md) | 中等 |
