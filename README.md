@@ -62,6 +62,7 @@ LeetCode刷题记录
 | 52   | [ N 皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/52.nQueensII.md) | 困难 |
 | 51   | [ N 皇后](https://leetcode-cn.com/problems/n-queens/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/51.nQueens.md) | 困难 |
 | 47   | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/47.permutationsII.md) | 中等 |
+| 41   | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/41.firstMissingPositive.md) | 困难 |
 | 40   | [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/40.combinationSumIIb.md) | 中等 |
 | 39   | [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/39.combinationSum.md) | 中等 |
 | 37   | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/37.sudokuSolver.md) | 困难 |
