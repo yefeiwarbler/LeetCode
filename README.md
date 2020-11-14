@@ -56,6 +56,7 @@ LeetCode刷题记录
 | 718  | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/718.maximuLengthOfRepeatedSubarray.md) | 中等 |
 | 416  | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/416.partitionEqualSubsetSum.md) | 中等 |
 | 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/350.intersectionOfTwoArraysII.md) | 简单 |
+| 349  | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/349.intersectionOfTwoArrays.md) | 简单 |
 | 216  | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/216.combinationSumIII.md) | 中等 |
 | 79   | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/79.wordSearch.md) | 中等 |
 | 78   | [子集](https://leetcode-cn.com/problems/subsets/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/78.subsets.md) | 中等 |
