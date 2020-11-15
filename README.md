@@ -30,6 +30,7 @@ LeetCode刷题记录
 | 711  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/711.jewelsAndStones.md) | 简单 |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
 | 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/344.reverseString.md) | 简单 |
+| 43   | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/43.multiplyStrings.md) | 中等 |
 | 38   | [外观数列](https://leetcode-cn.com/problemscount-and-say/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/38.countAndSay.md) | 简单 |
 | 32   | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/32.longestValidParentheses.md) | 困难 |
 | 30  | [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/30.substringWithConcatenationOfAllWords.md) | 困难 |
@@ -56,7 +57,7 @@ LeetCode刷题记录
 | 718  | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/718.maximuLengthOfRepeatedSubarray.md) | 中等 |
 | 416  | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/416.partitionEqualSubsetSum.md) | 中等 |
 | 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/350.intersectionOfTwoArraysII.md) | 简单 |
-| 349  | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/349.intersectionOfTwoArrays.md) | 简单 |
+| 349  | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/349.intersectionOfTwoArrays.md) | 简单 |
 | 216  | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/216.combinationSumIII.md) | 中等 |
 | 79   | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/79.wordSearch.md) | 中等 |
 | 78   | [子集](https://leetcode-cn.com/problems/subsets/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/78.subsets.md) | 中等 |
