@@ -26,6 +26,7 @@ LeetCode刷题记录
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
 | 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/1002.findCommonCharacters.md) | 简单 |
+| 925  | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/925.longPressedName.md) | 简单 |
 | 844 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/844.backspaceStringCompare.md) | 简单 |
 | 711  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/711.jewelsAndStones.md) | 简单 |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
