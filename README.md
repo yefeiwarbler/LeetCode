@@ -28,6 +28,7 @@ LeetCode刷题记录
 | 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/1002.findCommonCharacters.md) | 简单 |
 | 925  | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/925.longPressedName.md) | 简单 |
 | 844 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/844.backspaceStringCompare.md) | 简单 |
+| 763 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/763.partitiomLabels.md) | 中等 |
 | 711  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/711.jewelsAndStones.md) | 简单 |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
 | 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/344.reverseString.md) | 简单 |
