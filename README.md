@@ -87,6 +87,7 @@ LeetCode刷题记录
 ## 链表
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
+| 234   | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/234.palindromeLinkedList.md) | 简单 |
 | 143   | [重排链表](https://leetcode-cn.com/problems/reorder-list/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/143.reorderList.md) | 中等 |
 | 142   | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/142.linkedListCycleII.md) | 中等 |
 | 141   | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/list/141.linkedListCycle.md) | 简单 |
