@@ -56,6 +56,7 @@ LeetCode刷题记录
 | :-:  | :-------------------- | :-:  | :-: |
 | 1010 | [总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1010.pairsOfSongsWithTotalDurationsDivisibleBy60.md) | 简单 |
 | 977  | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/977.squaresOfASortedArray.md) | 简单 |
+| 845  | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/845.longestMountainInArray.md) | 中等 |
 | 718  | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/718.maximuLengthOfRepeatedSubarray.md) | 中等 |
 | 416  | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/416.partitionEqualSubsetSum.md) | 中等 |
 | 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/350.intersectionOfTwoArraysII.md) | 简单 |
