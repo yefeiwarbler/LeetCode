@@ -54,6 +54,7 @@ LeetCode刷题记录
 ## 数组
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
+| 1365 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1365.howManyNumbersAreSmallerThanTheCurrentNumber.md) | 简单 |
 | 1010 | [总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/1010.pairsOfSongsWithTotalDurationsDivisibleBy60.md) | 简单 |
 | 977  | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/977.squaresOfASortedArray.md) | 简单 |
 | 845  | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/845.longestMountainInArray.md) | 中等 |
