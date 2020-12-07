@@ -16,6 +16,7 @@ LeetCode刷题记录
 | 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/226.invertBianryTree.md) | 简单 |
 | 145  | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/145.binaryTreePostorderTraversal.md) | 中等 |
 | 144  | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/144.binaryTreePreorderTraversal.md) | 中等 |
+| 129  | [求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/129.sumRootToLeafNumbers.md) | 中等 |
 | 117  | [填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/117.populatingNextRightPointersInEachNodeII.md) | 中等 |
 | 116  | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/116.populatingNextRightPointersInEachNode.md) | 中等 |
 | 113  | [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/binary-tree/113.pathSumII.md) | 中等 |
