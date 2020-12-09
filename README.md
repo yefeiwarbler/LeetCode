@@ -62,6 +62,7 @@ LeetCode刷题记录
 | 977  | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/977.squaresOfASortedArray.md) | 简单 |
 | 845  | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/845.longestMountainInArray.md) | 中等 |
 | 718  | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/718.maximuLengthOfRepeatedSubarray.md) | 中等 |
+| 463  | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/463.islandPerimeter.md) | 简单 |
 | 416  | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/416.partitionEqualSubsetSum.md) | 中等 |
 | 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/350.intersectionOfTwoArraysII.md) | 简单 |
 | 349  | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/349.intersectionOfTwoArrays.md) | 简单 |
