@@ -34,6 +34,7 @@ LeetCode刷题记录
 | 711  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/711.jewelsAndStones.md) | 简单 |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
 | 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/344.reverseString.md) | 简单 |
+| 44   | [通配符匹配](https://leetcode-cn.com/problems/reverse-string/) | [](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/44.wildcardString.md) | 困难 |
 | 43   | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [javascript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/43.multiplyStrings.md) | 中等 |
 | 38   | [外观数列](https://leetcode-cn.com/problemscount-and-say/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/38.countAndSay.md) | 简单 |
 | 32   | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/32.longestValidParentheses.md) | 困难 |
