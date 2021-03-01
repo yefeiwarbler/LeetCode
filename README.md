@@ -71,6 +71,7 @@ LeetCode刷题记录
 | 216  | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/216.combinationSumIII.md) | 中等 |
 | 79   | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/79.wordSearch.md) | 中等 |
 | 78   | [子集](https://leetcode-cn.com/problems/subsets/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/78.subsets.md) | 中等 |
+| 57   | [插入区间](https://leetcode-cn.com/problems/insert-interval/) | [JavaScript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/57.insertInterval.md) | 中等 |
 | 52   | [ N 皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/52.nQueensII.md) | 困难 |
 | 51   | [ N 皇后](https://leetcode-cn.com/problems/n-queens/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/51.nQueens.md) | 困难 |
 | 47   | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/array/47.permutationsII.md) | 中等 |
