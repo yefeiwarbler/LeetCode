@@ -114,6 +114,7 @@ LeetCode刷题记录
 ## 其他
 | #    | <center>题目</center> | 算法 | 难度 |
 | :-:  | :-------------------- | :-:  | :-: |
+| 381  | [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/divide-two-integers/) | [JavaScript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/381.insertDeleteGetrandomO1DuplicatesAllowed.md) | 困难 |
 | 29   | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/29.divideTwoIntegers.md) | 中等 |
 | 13   | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | [JavaScript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/12.romanToInteger.md) | 简单 |
 | 12   | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/others/12.integerToRoman.md) | 中等 |
