@@ -34,6 +34,7 @@ LeetCode刷题记录
 | 711  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/711.jewelsAndStones.md) | 简单 |
 | 520  | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/520.detectCapital.md) | 简单 |
 | 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/344.reverseString.md) | 简单 |
+| 140  | [单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) | [JavaScript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/140.wordBreakII.md) | 困难 |
 | 139  | [单词拆分](https://leetcode-cn.com/problems/word-break/) | [JavaScript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/139.wordBreak.md) | 中等 |
 | 44   | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | [Java](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/44.wildcardMatching.md) | 困难 |
 | 43   | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [JavaScript](https://github.com/yefeiwarbler/LeetCode/blob/master/scripts/string/43.multiplyStrings.md) | 中等 |
